@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=csaument&top_languages=true)
